@@ -1,0 +1,9 @@
+{
+	"name": "ADFWafaDemoForGit",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f17ea5a9-bb31-4504-aca9-e29d934c474a",
+		"tenantId": "14133a89-6111-4195-bcdf-72d0c497bd83"
+	}
+}
